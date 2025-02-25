@@ -3,7 +3,7 @@ An interactive dashboard for analyzing energy consumption trends across differen
 Built using Excel, Power Pivot, and Pivot Tables to provide dynamic insights and visualizations.  
 
  ## 📊 Dashboard Preview:
-![Dashboard Screenshot](https://raw.githubusercontent.com/AmiraKhater/Energy_Consumption_Analysis/main/photo.png)
+![Dashboard Screenshot]( https://github.com/AmiraKhater/Eneregy_Consumption_Analysis/blob/main/photo.png)
 
 
 ## 📌 Features:
