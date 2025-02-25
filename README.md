@@ -1,30 +1,29 @@
- # Energy_Consumption_Analysis  
+ # 📊 Energy Consumption Analysis
+
 An interactive dashboard for analyzing energy consumption trends across different years, buildings, and energy types.  
-Built using Excel, Power Pivot, and Pivot Tables to provide dynamic insights and visualizations.  
+Built using **Excel, Power Pivot, and Pivot Tables** to provide dynamic insights and visualizations.
 
- ## 📊 Dashboard Preview:
-![Dashboard Screenshot]( https://github.com/AmiraKhater/Eneregy_Consumption_Analysis/blob/main/photo.png)
+## 📌 Dashboard Preview:
+![Dashboard Screenshot](photo.png)
 
+## 📢 Features:
+- **📊 Interactive Dashboard:** Analyze energy trends across different dimensions.
+- **📈 Power Pivot & Pivot Tables:** Used for dynamic aggregations and efficient data summarization.
+- **📉 Visual Insights:** Charts and tables for clear data representation.
+- **⚡ Energy Types:** Water, gas, and electricity consumption tracking.
+- **🔍 Yearly Comparison:** Compare energy usage trends across different years.
+- **🏢 Multi-Building Analysis:** Track and compare consumption in various buildings.
 
-## 📌 Features:
-- **Interactive Dashboard**: Analyze trends across different dimensions.  
-- **Power Pivot & Pivot Tables**: Used for dynamic aggregations.  
-- **Visual Insights**: Charts and tables for clear data representation.  
-- **Energy Types**: Water, gas, and electricity consumption tracking.  
-
-## 🛠 Tools & Technologies:
-- Microsoft Excel  
-- Power Pivot  
-- Pivot Tables  
-
-## 📂 Files Included:
-- `Energy_Consumption_Dashboard.xlsx` → The interactive dashboard file.  
-- `README.md` → Project documentation.  
-- `photo.png` → Screenshot of the dashboard.  
+## 🚀 How to Use:
+1. Download the Excel file from the repository.
+2. Open the file in Microsoft Excel (2016 or later recommended).
+3. Navigate to the dashboard tab to explore the insights.
+4. Use filters and slicers to customize your view.
 
 ## 📬 Contact:
-For any inquiries, feel free to reach out:  
-📧 Amira.Yousef.Khater@gmail.com  
+🔗 **LinkedIn:** [Amira Khater](https://www.linkedin.com/in/amirakhater/)  
+📧 **Email:** Amira.Yousef.Khater@gmail.com  
+
 
  
  
